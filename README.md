@@ -16,7 +16,7 @@ Disse skriptene dekker ulike steg i datasammenstillingen, som er detaljert beskr
 
 ### 📈 Modellering og validering
 - **Sogne.R**  
-  Inneholder alt som er nødvendig for å modellere én stasjon (Søgne), inkludert estimering av en statistisk modell, validering, samt sammenligning med HBV-modellen.
+  Inneholder alt som er nødvendig for å modellere én stasjon (Søgne), inkludert estimering av en statistisk modell, diagnostikk, validering, smooth plots, samt sammenligning med HBV-modellen.
 
 ### 🌍 Klimascenarioanalyse
 - **Klimascenario.R**  
