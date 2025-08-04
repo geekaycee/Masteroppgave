@@ -4,7 +4,7 @@ Dette repositoriet inneholder R-kode knyttet til masteroppgaven.
 
 ## Innhold og bruk
 
-### 📁 Datasammenstilling
+### Datasammenstilling
 Følgende filer benyttes til å forberede og sammenstille data som senere brukes i modellering og analyser:
 
 - **Kode 1.R**  
@@ -14,11 +14,11 @@ Følgende filer benyttes til å forberede og sammenstille data som senere brukes
 
 Disse skriptene dekker ulike steg i datasammenstillingen, som er detaljert beskrevet i underkapittel 3.2
 
-### 📈 Modellering og validering
+### Modellering og validering
 - **Sogne.R**  
   Inneholder alt som er nødvendig for å modellere én stasjon (Søgne), inkludert estimering av en statistisk modell, diagnostikk, validering, smooth plots, samt sammenligning med HBV-modellen.
 
-### 🌍 Klimascenarioanalyse
+### Klimascenarioanalyse
 - **Klimascenario.R**  
   Inneholder kode for å utføre klimascenarioanalyse for én stasjon. Skriptet tar utgangspunkt i værdata for referanseperioden og scenario-data for år 2100 (RCP8.5), og produserer sesonsvise tilsigestimater.
 
